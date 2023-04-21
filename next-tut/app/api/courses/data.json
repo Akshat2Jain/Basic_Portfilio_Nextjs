@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "WebDev",
+    "description": "Intersting WebDev Videos about js tricks and other things",
+    "link": "https://youtube.com/playlist?list=PL_UtPjISDvYS83wtde6iyhO52u9xYhHwk",
+    "level": "Beginner"
+  },
+  {
+    "id": 2,
+    "title": "Async Javascript",
+    "description": "Covered about the promises ,async await , callback",
+    "link": "https://youtube.com/playlist?list=PL_UtPjISDvYS_4P-hHL5gsIiI8qf9j0HQ",
+    "level": "Intermediate"
+  },
+  {
+    "id": 3,
+    "title": "MERN Beginner Course",
+    "description": "Covered all the tech stack ",
+    "link": "https://youtube.com/playlist?list=PL_UtPjISDvYQvc_DhFsVQUIsHGsBe70e7",
+    "level": "All Levels"
+  }
+]
